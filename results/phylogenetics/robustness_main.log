@@ -1,0 +1,25 @@
+FToL: 159 especies emparejadas, 14 por congenere, 18 sin genero en el arbol
+  arbol 01: Dollo=4 simmap=4 (4-5) p_prog=0.0967 p_prog_enana=0.398 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 02: Dollo=4 simmap=4 (4-5) p_prog=0.0449 p_prog_enana=0.257 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 03: Dollo=4 simmap=4 (4-5) p_prog=0.0668 p_prog_enana=0.308 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 04: Dollo=4 simmap=4 (4-5) p_prog=0.0455 p_prog_enana=0.258 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 05: Dollo=5 simmap=5 (5-5) p_prog=0.0605 p_prog_enana=0.144 | Danio; Danionella; Misgurnus; Paedocypris; Paramisgurnus
+  arbol 06: Dollo=4 simmap=4 (4-4) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 07: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 08: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 09: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 10: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 11: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 12: Dollo=3 simmap=3 (3-4) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paedocypris+Paramisgurnus
+  arbol 13: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 14: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 15: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 16: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 17: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 18: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 19: Dollo=4 simmap=4 (4-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 20: Dollo=5 simmap=5 (5-5) p_prog=NA p_prog_enana=NA | Danio; Danionella; Misgurnus; Paedocypris; Paramisgurnus
+  ML 24 genomas: Dollo=4 simmap=4 (4-5) p_prog=0.669 p_prog_enana=0.51 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+
+FToL (20 arboles): Dollo = 3/4/5 perdidas
+FIN

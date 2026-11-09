@@ -1,0 +1,26 @@
+species	assembly_accession	assembly_name	assembly_level	size_Mb	n_sequences	group	DCX	miniaturization	note
+Astyanax mexicanus	GCF_023375975.1	AstMex3_surface	Chromosome	1373.2	109	outgroup	present		
+Ictalurus furcatus	GCF_023375685.1	Billie_1.0	Chromosome	825.5	43	outgroup	present		DCX missing from the assembly, present in raw reads (assembly gap)
+Barbatula barbatula	GCF_947034865.1	fBarBar1.1	Chromosome	617.6	99	Cypriniformes	present	non-miniature	
+Ctenopharyngodon idella	GCF_019924925.1	HZGC01	Chromosome	893.2	31	Cypriniformes	present	non-miniature	
+Danio aesculapii	GCF_903798145.1	fDanAes4.1	Chromosome	1381.5	342	Cypriniformes	absent	non-miniature	
+Danio albolineatus	GCA_903798035.1		Scaffold	1463.0	40406	Cypriniformes	absent	non-miniature	
+Danio choprae	GCA_903798125.1		Scaffold	1102.2	56986	Cypriniformes	absent	non-miniature	
+Danio jaintianensis	GCA_903798115.1		Scaffold	1122.5	19951	Cypriniformes	absent	non-miniature	
+Danio kyathit	GCA_903798195.1	fDanKya3.1	Chromosome	1708.4	739	Cypriniformes	absent	non-miniature	
+Danio nigrofasciatus	GCA_053539255.1	ASM5353925v1	Scaffold	1425.5	406204	Cypriniformes	absent		
+Danio rerio	GCF_052040795.2	GRCz13ab	Complete Genome	1455.3	26	Cypriniformes	absent	non-miniature	
+Danio tinwini	GCA_903798205.1		Scaffold	1497.4	35277	Cypriniformes	absent	proportioned-dwarf	
+Danionella cerebrum	GCA_007224835.1	ASM722483v1	Scaffold	735.3	27639	Cypriniformes	present	progenetic-miniature	
+Danionella cerebrum	GCA_903798025.1	fDanTra1.1	Scaffold	657.5	11408	Cypriniformes	present	progenetic-miniature	second assembly of D. cerebrum (replicate; excluded from counts)
+Danionella dracula	GCA_900490495.1	fDanDra1.1	Scaffold	665.2	996	Cypriniformes	absent	progenetic-miniature	
+Gobio gobio	GCF_949357685.1	fGobGob1.1	Chromosome	1460.7	230	Cypriniformes	present	non-miniature	
+Labeo rohita	GCF_022985175.1	IGBB_LRoh.1.0	Chromosome	1126.6	2870	Cypriniformes	present	non-miniature	
+Misgurnus anguillicaudatus	GCF_027580225.2	ASM2758022v2	Chromosome	1120.3	61	Cypriniformes	absent	non-miniature	
+Paedocypris carbunculus	GCA_028128575.1	ASM2812857v1	Scaffold	407.2	172662	Cypriniformes	absent	progenetic-miniature	
+Paedocypris micromegethes	GCA_028031935.1	ASM2803193v1	Chromosome	421.3	23820	Cypriniformes	absent	progenetic-miniature	
+Paedocypris sp. Pulau Singkep	GCA_017309765.1	IMCB_Psing_M_1.0	Scaffold	402.7	2824	Cypriniformes	absent		
+Paramisgurnus dabryanus	GCF_030506205.2	PD_genome_1.1	Chromosome	1043.5	220	Cypriniformes	absent		
+Pimephales promelas	GCF_988280905.1	fPimPro1.hap1.1	Chromosome	956.6	140	Cypriniformes	present	non-miniature	
+Rasbora lateristriata	GCA_054507245.2	UGM_Raslat_male	Chromosome	975.8	10399	Cypriniformes	present		
+Triplophysa rosa	GCF_024868665.1	Trosa_1v2	Chromosome	684.8	1039	Cypriniformes	present	non-miniature	

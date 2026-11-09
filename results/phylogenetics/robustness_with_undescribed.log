@@ -1,0 +1,25 @@
+FToL: 209 especies emparejadas, 63 por congenere, 25 sin genero en el arbol
+  arbol 01: Dollo=6 simmap=6 (6-7) p_prog=0.13 p_prog_enana=0.124 | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 02: Dollo=7 simmap=7 (7-7) p_prog=0.11 p_prog_enana=0.217 | Cobitis; Danio; Danionella; Misgurnus; Misgurnus; Paedocypris; Paramisgurnus
+  arbol 03: Dollo=6 simmap=6 (6-7) p_prog=0.108 p_prog_enana=0.301 | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 04: Dollo=5 simmap=5 (5-7) p_prog=0.0713 p_prog_enana=0.343 | Cobitis+Misgurnus+Paramisgurnus; Danio; Danionella; Misgurnus; Paedocypris
+  arbol 05: Dollo=7 simmap=7 (7-7) p_prog=0.128 p_prog_enana=0.268 | Cobitis; Danio; Danionella; Misgurnus; Misgurnus; Paedocypris; Paramisgurnus
+  arbol 06: Dollo=5 simmap=5 (5-6) p_prog=NA p_prog_enana=NA | Cobitis+Misgurnus+Paramisgurnus; Danio; Danionella; Misgurnus; Paedocypris
+  arbol 07: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 08: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 09: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 10: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 11: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 12: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 13: Dollo=7 simmap=7 (7-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus; Paedocypris; Paramisgurnus
+  arbol 14: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 15: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 16: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 17: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 18: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 19: Dollo=6 simmap=6 (6-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus+Paramisgurnus; Paedocypris
+  arbol 20: Dollo=7 simmap=7 (7-7) p_prog=NA p_prog_enana=NA | Cobitis; Danio; Danionella; Misgurnus; Misgurnus; Paedocypris; Paramisgurnus
+  ML 24 genomas: Dollo=4 simmap=4 (4-5) p_prog=0.669 p_prog_enana=0.51 | Danio; Danionella; Misgurnus+Paramisgurnus; Paedocypris
+
+FToL (20 arboles): Dollo = 5/6/7 perdidas
+FIN

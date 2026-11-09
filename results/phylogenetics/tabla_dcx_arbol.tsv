@@ -1,0 +1,268 @@
+especie	fuente	corrida	voucher	punta	DCX_obs	DCX_esp	cociente	estado	familia	miniatura	SL_max_cm	genoma_Mb	ploidia	estado_punta
+Devario_sondhii	lecturas	SRR39401135	144LR15698	Cyprinoidei_Danionidae_Devario_sondhii_144LR15698	30.0	35.8	0.838	presente	Danionidae	non-miniature	6.5	1064.408718	diploid	presente
+Boraras_micros	lecturas	SRR39401219	LR12206	Cyprinoidei_Danionidae_Boraras_micros_LR12206	30.0	40.9	0.733	presente	Danionidae	proportioned-dwarf	1.3	953.8686275	diploid	presente
+Danio_margaritatus	lecturas	SRR39401136	LR02056	Cyprinoidei_Danionidae_Danio_margaritatus_LR02056	2.0	43.8	0.046	ausente	Danionidae	proportioned-dwarf	2.1	928.546121	diploid	ausente
+Sundadanio_retiarius	lecturas	SRR39401245	101LR12751	Cyprinoidei_incertae.sedis_Sundadanio_retiarius_101LR12751	29.0	42.5	0.682	presente	Sundadanionidae	progenetic-miniature	1.9	752.2425955	diploid	presente
+Sundadanio_goblinus	lecturas	SRR39401248	LR10372	Cyprinoidei_incertae.sedis_Sundadanio_goblinus_LR10372	16.0	44.5	0.359	presente	Sundadanionidae	progenetic-miniature	1.9	679.917281	diploid	presente
+Barboides_gracilis	lecturas	SRR39401150	LR15256	Cyprinoidei_Cyprinidae_Barboides_gracilis_LR15256	35.0	58.4	0.6	presente	Cyprinidae	proportioned-dwarf	1.8	636.29766	diploid	presente
+Horadandia_atukorali	lecturas	ERR3332354		Cyprinoidei_Danionidae_Horadandia_atukorali_fHorAtu1	33.0	72.5	0.455	presente	Danionidae	proportioned-dwarf	1.93	585.840953	diploid	presente
+Kottelatia_brittani	lecturas	SRR39401127	LR01674	Cyprinoidei_Danionidae_Kottelatia_brittani_LR01674	25.0	66.7	0.375	presente	Danionidae	non-miniature	4.13	689.6199065	diploid	presente
+Trigonostigma_heteromorpha	lecturas	SRR39401108	LR11086	Cyprinoidei_Danionidae_Trigonostigma_heteromorpha_LR11086	30.0	34.0	0.882	presente	Danionidae	proportioned-dwarf	2.84	1115.305677	diploid	presente
+Sawbwa_resplendens	lecturas	SRR39401218	LR15061	Cyprinoidei_Cyprinidae_Sawbwa_resplendens_LR15061	25.0	48.8	0.513	presente	Cyprinidae	proportioned-dwarf	2.17	792.262248499999	diploid	presente
+Sundadanio_margarition	lecturas	SRR39401247	LR15082	Cyprinoidei_incertae.sedis_Sundadanio_margarition_LR15082	22.0	38.5	0.572	presente	Sundadanionidae	progenetic-miniature	2.0	716.7551635	diploid	presente
+Fangfangia_spinicleithralis	lecturas	SRR39401249	100LR08982	Cyprinoidei_incertae.sedis_Fangfangia_spinicleithralis_100LR08982	21.0	44.1	0.477	presente	Sundadanionidae	progenetic-miniature	2.3	761.3466415	diploid	presente
+Boraras_urophthalmoides	lecturas	SRR39401217	LR12190	Cyprinoidei_Danionidae_Boraras_urophthalmoides_LR12190	25.0	42.9	0.582	presente	Danionidae	proportioned-dwarf	1.8	1043.5374155	diploid	presente
+Danio_erythromicron	lecturas	SRR39401137	LR01642	Cyprinoidei_Danionidae_Danio_erythromicron_LR01642	0.0	39.8	0.0	ausente	Danionidae	proportioned-dwarf	2.37	1006.792028	diploid	ausente
+Esomus_metallicus	lecturas	SRR39401131	LR01653	Cyprinoidei_Danionidae_Esomus_metallicus_LR01653	65.0	80.1	0.812	presente	Danionidae	non-miniature	7.5	513.0350255	diploid	presente
+Brevibora_dorsiocellata	lecturas	SRR39401139	LR11616	Cyprinoidei_Danionidae_Brevibora_dorsiocellata_LR11616	26.0	45.9	0.567	presente	Danionidae	proportioned-dwarf	2.3	866.844274999999	diploid	presente
+Paedocypris_sp	lecturas	SRR39401251	LR15325	Cyprinoidei_incertae.sedis_Paedocypris_sp_LR15325	0.0	67.6	0.0	ausente	Paedocyprididae	progenetic-miniature	1.3	517.668667	diploid	ausente
+Rasboroides_pallidus	lecturas	SRR39401254	LR05463	Cyprinoidei_Danionidae_Rasboroides_pallidus_LR05463	34.0	61.7	0.551	presente	Danionidae	non-miniature	3.6	628.516662499999	diploid	presente
+Microdevario_kubotai	lecturas	SRR39401261	LR15568	Cyprinoidei_Danionidae_Microdevario_kubotai_LR15568	31.0	39.8	0.779	presente	Danionidae	proportioned-dwarf	1.9	1010.972865	diploid	presente
+Ictalurus_furcatus	lecturas	SRR18966194		Siluriformes_Ictaluridae_Ictalurus_furcatus_GCF_023375685.1_NCBI	50.0	46.1	1.085	presente						presente
+Paramisgurnus_dabryanus	lecturas	SRR23104325			0.0	18.8	0.0	ausente						
+Danionella_dracula	lecturas	ERR2639755		Cyprinoidei_incertae.sedis_Danionella_dracula_GCA_900490495.1_NCBI	0.0	25.9	0.0	ausente		progenetic-miniature	1.7		diploid	ausente
+Danio_choprae	lecturas	ERR3284956		Cyprinoidei_Danionidae_Danio_choprai_GCA_903798125.1_NCBI	1.0	21.5	0.047	ausente		non-miniature	3.1		diploid	ausente
+Danio_albolineatus	lecturas	ERR3284960		Cyprinoidei_Danionidae_Danio_albolineatus_GCA_903798035.1_NCBI	0.0	21.2	0.0	ausente		non-miniature	3.4		diploid	ausente
+Danio_jaintianensis	lecturas	ERR3284968		Cyprinoidei_Danionidae_Danio_jaintianensis_GCA_903798115.1_NCBI	0.0	22.6	0.0	ausente		non-miniature	8.0		diploid	ausente
+Danio_tinwini	lecturas	ERR3284971		Cyprinoidei_Danionidae_Danio_tinwini_GCA_903798205.1_NCBI	0.0	18.6	0.0	ausente		proportioned-dwarf	2.6		diploid	ausente
+Danionella_cerebrum	lecturas	ERR3284980		Cyprinoidei_incertae.sedis_Danionella_cerebrum_GCA_903798025.1_NCBI	28.0	35.6	0.787	presente		progenetic-miniature	1.4		diploid	presente
+Boraras_maculatus	lecturas	ERR3332319		Cyprinoidei_Danionidae_Boraras_maculatus_fBorMac1	22.0	35.3	0.622	presente	Danionidae	proportioned-dwarf	2.0	923.9557445	diploid	presente
+Laubuka_siamensis	lecturas	ERR3332320		Cyprinoidei_Danionidae_Laubuka_siamensis_fLauMye1	11.0	28.6	0.384	presente	Danionidae	non-miniature	6.1	1336.0497035	diploid	presente
+Salmostoma_sp	lecturas	ERR3332344			26.0	68.4	0.38	presente						
+Sundadanio_retiarius	lecturas	ERR3332345		Cyprinoidei_incertae.sedis_Sundadanio_retiarius_101LR12751	23.0	33.8	0.681	presente	Sundadanionidae	progenetic-miniature	1.9	752.2425955	diploid	presente
+Luciosoma_sp	lecturas	ERR3332355		Cyprinoidei_Danionidae_Luciosoma_sp_LR01659	37.0	66.7	0.555	presente		non-miniature	26.0		diploid	presente
+Raiamas_guttatus	lecturas	ERR3332360		Cyprinoidei_Danionidae_Raiamas_guttatus_fRaiGut1	34.0	56.4	0.603	presente	Danionidae	non-miniature	30.0	623.62552	diploid	presente
+Devario_aequipinnatus	lecturas	ERR3332370			8.0	25.1	0.319	presente						
+Devario_devario	lecturas	ERR3332371		Cyprinoidei_Danionidae_Devario_devario_fDevDev2	8.0	23.5	0.341	presente	Danionidae	non-miniature	7.0	1617.3164375	diploid	presente
+Amblypharyngodon_sp	lecturas	ERR3332378		Cyprinoidei_Danionidae_Amblypharyngodon_sp_fAmbSpp1	48.0	62.6	0.766	presente	Danionidae	non-miniature	5.5	582.919701	diploid	presente
+Chela_cachius	lecturas	ERR3332386		Cyprinoidei_Danionidae_Chela_cachius_fCheCac1	20.0	35.3	0.566	presente	Danionidae	non-miniature	5.0	1008.955852	diploid	presente
+Danio_aesculapii	lecturas	ERR3655543		Cyprinoidei_Danionidae_Danio_aesculapii_GCF_903798145.1_NCBI	0.0	28.9	0.0	ausente		non-miniature	3.0		diploid	ausente
+Danio_kyathit	lecturas	ERR3655545		Cyprinoidei_Danionidae_Danio_kyathit_GCA_903798195.1_NCBI	0.0	17.7	0.0	ausente		non-miniature	3.5		diploid	ausente
+Danio_rerio	lecturas	ERR4021773		Cyprinoidei_Danionidae_Danio_rerio_GCA_944039275.1_NCBI	0.0	216.3	0.0	ausente		non-miniature	3.8		diploid	ausente
+Rasbora_kalochroma	lecturas	SRR36627390	LR15877	Cyprinoidei_Danionidae_Rasbora_kalochroma_LR15877	186.0	373.3	0.498	presente	Danionidae	non-miniature	6.0	1290.8498605	diploid	presente
+Boraras_brigittae	lecturas	SRR36627391	LR15871	Cyprinoidei_Danionidae_Boraras_brigittae_LR15871	151.0	419.4	0.36	presente	Danionidae	proportioned-dwarf	1.8	989.810021	diploid	presente
+Sundadanio_atomus	lecturas	SRR36627395	LR15870	Cyprinoidei_incertae.sedis_Sundadanio_atomus_LR15870	101.0	192.1	0.526	presente	Sundadanionidae	progenetic-miniature	1.6	654.471117	diploid	presente
+Paedocypris_sp	lecturas	SRR36627396	LR15863A	Cyprinoidei_incertae.sedis_Paedocypris_sp_LR15863A	0.0	299.7	0.0	ausente	Paedocyprididae	progenetic-miniature	1.3	401.451712	diploid	ausente
+Labiobarbus_ocellatus	lecturas	SRR39401035	LR12884	Cyprinoidei_Cyprinidae_Labiobarbus_ocellatus_LR12884	27.0	30.6	0.881	presente	Cyprinidae	non-miniature	15.5	1143.45479149999	diploid	presente
+Labeobarbus_sp	lecturas	SRR39401036	LR15282		32.0	42.3	0.757	presente	Cyprinidae	non-miniature	35.0	1263.3545525	polyploid	
+Labeo_cylindricus	lecturas	SRR39401037	LR15278	Cyprinoidei_Cyprinidae_Labeo_sp_LR15278	33.0	35.6	0.928	presente	Cyprinidae	non-miniature	25.0	1028.75166649999	diploid	presente
+Hampala_ampalong	lecturas	SRR39401038	LR15078	Cyprinoidei_Cyprinidae_Hampala_ampalong_LR15078	37.0	58.8	0.629	presente	Cyprinidae	non-miniature	15.0	667.0398945	diploid	presente
+Haludaria_fasciata	lecturas	SRR39401039	LR15635	Cyprinoidei_Cyprinidae_Haludaria_fasciata_LR15635	43.0	62.0	0.694	presente	Cyprinidae	non-miniature	6.0	590.2574145	diploid	presente
+Folifer_brevifilis	lecturas	SRR39401040	LR15563	Cyprinoidei_Cyprinidae_Folifer_brevifilis_LR15563	38.0	48.1	0.79	presente	Cyprinidae	non-miniature	19.2	900.587643	diploid	presente
+Epalzeorhynchos_kalopterus	lecturas	SRR39401041	LR01655	Cyprinoidei_Cyprinidae_Epalzeorhynchos_kalopterum_LR01655	19.0	29.3	0.648	presente	Cyprinidae	non-miniature	12.0	1362.220601	diploid	presente
+Enteromius_sp	lecturas	SRR39401042	LR15606	Cyprinoidei_Cyprinidae_Enteromius_sp_LR15606	36.0	49.9	0.722	presente	Cyprinidae	non-miniature	15.0	859.7960585	diploid	presente
+Rhodeus_amarus	lecturas	SRR39401043	LR15661	Cyprinoidei_Acheilognathidae_Rhodeus_amarus_LR15661	26.0	42.1	0.618	presente	Acheilognathidae	non-miniature	9.5	840.9927755	diploid	presente
+Balitoropsis_zollingeri	lecturas	SRR39401044	LR15094	Cobitoidei_Balitoridae_Balitoropsis_zollingeri_LR15094	55.0	103.1	0.533	presente	Balitoridae	non-miniature	6.77	416.506414	diploid	presente
+Tanakia_himantegus	lecturas	SRR39401045	LR15636	Cyprinoidei_Acheilognathidae_Paratanakia_himantegus_LR15636	29.0	56.4	0.514	presente	Acheilognathidae	non-miniature	6.3	703.096636	diploid	presente
+Eirmotus_sp	lecturas	SRR39401046	119LR15720	Cyprinoidei_Cyprinidae_Eirmotus_sp_119LR15720	22.0	62.0	0.355	presente	Cyprinidae	non-miniature	3.6	648.622376	diploid	presente
+Discherodontus_ashmeadi	lecturas	SRR39401047	122LR15725	Cyprinoidei_Cyprinidae_Discherodontus_ashmeadi_122LR15725	20.0	53.2	0.376	presente	Cyprinidae	non-miniature	13.6	723.054833	diploid	presente
+Homatula_variegata	lecturas	SRR39401048	LR15073	Cobitoidei_Nemacheilidae_Homatula_variegata_LR15073	46.0	56.4	0.816	presente	Nemacheilidae	non-miniature	12.4	697.354425499999	diploid	presente
+Desmopuntius_sp	lecturas	SRR39401049	140LR15737	Cyprinoidei_Cyprinidae_Desmopuntius_sp_140LR15737	27.0	53.9	0.501	presente	Cyprinidae	non-miniature	3.0	765.758192	diploid	presente
+Barbatula_sp	lecturas	SRR39401050	LR15190	Cobitoidei_Nemacheilidae_Barbatula_sp_LR15190	35.0	56.1	0.623	presente	Nemacheilidae	non-miniature	7.0	647.9074045	diploid	presente
+Ictiobus_bubalus	lecturas	SRR39401051			15.0	24.2	0.621	presente						
+Cobitis_sp	lecturas	SRR39401052	LR15465	Cobitoidei_Cobitidae_Cobitis_sp_LR15465	0.0	19.0	0.0	ausente	Cobitidae	non-miniature	10.9	1612.45102	diploid	ausente
+Vanmanenia_sp	lecturas	SRR39401053	LR15188		40.0	83.9	0.477	presente	Gastromyzontidae	non-miniature	6.3	438.572310499999	diploid	
+Sewellia_elongata	lecturas	SRR39401054	LR15561	Cobitoidei_Gastromyzontidae_Sewellia_elongata_LR15561	60.0	103.8	0.578	presente	Gastromyzontidae	non-miniature	7.3	411.1789435	diploid	presente
+Pseudogastromyzon_sp	lecturas	SRR39401055	LR15067	Cobitoidei_Gastromyzontidae_Pseudogastromyzon_sp_LR15067	44.0	95.7	0.46	presente	Gastromyzontidae	non-miniature	8.2	438.344733	diploid	presente
+Protomyzon_borneensis	lecturas	SRR39401056	LR15425	Cobitoidei_Gastromyzontidae_Protomyzon_borneensis_LR15425	62.0	95.5	0.649	presente	Gastromyzontidae	non-miniature	5.4	416.6464905	diploid	presente
+Plesiomyzon_baotingensis	lecturas	SRR39401057	LR15476	Cobitoidei_Gastromyzontidae_Plesiomyzon_baotingensis_LR15476	54.0	93.1	0.58	presente	Gastromyzontidae	non-miniature	3.94	428.931637499999	diploid	presente
+Liniparhomaloptera_disparis	lecturas	SRR39401058	LR15175	Cobitoidei_Gastromyzontidae_Liniparhomaloptera_disparis_LR15175	46.0	89.7	0.513	presente	Gastromyzontidae	non-miniature	6.3	431.0346715	diploid	presente
+Katibasia_insidiosa	lecturas	SRR39401059	LR15133	Cobitoidei_Gastromyzontidae_Katibasia_insidiosa_LR15133	47.0	90.4	0.52	presente	Gastromyzontidae	non-miniature	3.4	427.0149425	diploid	presente
+Glaniopsis_multiradiata	lecturas	SRR39401060	LR15090	Cobitoidei_Gastromyzontidae_Glaniopsis_muliradiatus_LR15090	51.0	84.6	0.603	presente	Gastromyzontidae	non-miniature	6.0	472.8609795	diploid	presente
+Erromyzon_sp	lecturas	SRR39401061	LR15491	Cobitoidei_Gastromyzontidae_Erromyzon_sp_LR15491	62.0	93.5	0.663	presente	Gastromyzontidae	non-miniature	5.2	446.541696	diploid	presente
+Leptobarbus_sp	lecturas	SRR39401062	LR15106	Cyprinoidei_Leptobarbidae_Leptobarbus_sp_LR15106	15.0	39.4	0.381	presente	Leptobarbidae	non-miniature	100.0	1001.95942399999	diploid	presente
+Telestes_muticellus	lecturas	SRR39401063	1450_2013	Cyprinoidei_Leuciscidae_Telestes_muticellus_1450_2013	13.0	30.9	0.421	presente	Leuciscidae	non-miniature	17.0	1160.1888965	diploid	presente
+Squalius_cephalus	lecturas	SRR39401064	1104_2014	Cyprinoidei_Leuciscidae_Squalius_cephalus_GCA_949319135.1_NCBI	20.0	33.6	0.596	presente	Leuciscidae	non-miniature	60.0	1084.9220835	diploid	presente
+Semotilus_atromaculatus	lecturas	SRR39401065	LR15249	Cyprinoidei_Leuciscidae_Semotilus_atromaculatus_GCA_031834385.1_NCBI	15.0	32.7	0.459	presente	Leuciscidae	non-miniature	24.5	1174.221529	diploid	presente
+Scardinius_sp	lecturas	SRR39401066	1010_2016		18.0	38.2	0.471	presente	Leuciscidae	non-miniature	35.0	1103.7610045	diploid	
+Leptobotia_elongata	lecturas	SRR39401067	LR15074	Cobitoidei_Botiidae_Leptobotia_elongata_LR15074	49.0	71.6	0.685	presente	Botiidae	non-miniature	50.0	626.037003	diploid	presente
+Rutilus_rutilus	lecturas	SRR39401068	2333_2013	Cyprinoidei_Leuciscidae_Rutilus_rutilus_GCA_951802725.1_NCBI	20.0	36.7	0.545	presente	Leuciscidae	non-miniature	50.0	1063.445747	diploid	presente
+Rhynchocypris_lagowskii	lecturas	SRR39401069	LR15572	Cyprinoidei_Leuciscidae_Rhynchocypris_lagowskii_LR15572	16.0	38.9	0.411	presente	Leuciscidae	non-miniature	18.5	1230.470575	diploid	presente
+Rhinichthys_cataractae	lecturas	SRR39401070	LR15251	Cyprinoidei_Leuciscidae_Rhinichthys_cataractae_LR15251	23.0	36.5	0.631	presente	Leuciscidae	non-miniature	10.4	1101.099443	diploid	presente
+Ptychocheilus_lucius	lecturas	SRR39401071	109LR15744	Cyprinoidei_Leuciscidae_Ptychocheilus_lucius_109LR15744	20.0	31.3	0.639	presente	Leuciscidae	non-miniature	18.0	1094.0600955	diploid	presente
+Phoxinus_csikii	lecturas	SRR39401072	2564_2011		24.0	43.8	0.547	presente	Leuciscidae	non-miniature	10.0	980.731219	diploid	
+Notropis_chalybaeus	lecturas	SRR39401073	LR15254	Cyprinoidei_Leuciscidae_Notropis_chalybaeus_LR15254	19.0	30.2	0.629	presente	Leuciscidae	non-miniature	5.0	1230.9577055	diploid	presente
+Enteromius_sp	lecturas	SRR39401074	LR15276	Cyprinoidei_Cyprinidae_Enteromius_sp_LR15606	18.0	42.1	0.428	presente	Cyprinidae	non-miniature	15.0	878.386854	diploid	presente
+Homaloptera_sp	lecturas	SRR39401075	LR15139	Cobitoidei_Balitoridae_Homaloptera_sp_LR15139	79.0	88.4	0.894	presente	Balitoridae	non-miniature	13.0	450.377603	diploid	presente
+Eirmotus_sp	lecturas	SRR39401076	LR09582	Cyprinoidei_Cyprinidae_Eirmotus_sp_LR09582	29.0	58.4	0.497	presente	Cyprinidae	non-miniature	3.6	658.8349075	diploid	presente
+Lobocheilos_aurolineatus	lecturas	SRR39401077	LR15104	Cyprinoidei_Cyprinidae_Lobocheilos_aureolineatus_LR15104	24.0	44.3	0.542	presente	Cyprinidae	non-miniature	5.99	1011.2867875	diploid	presente
+Balantiocheilos_melanopterus	lecturas	SRR39401078	LR15639	Cyprinoidei_Cyprinidae_Balantiocheilos_melanopterus_LR15639	24.0	53.9	0.445	presente	Cyprinidae	non-miniature	35.0	738.167275999999	diploid	presente
+Ageneiogarra_sp	lecturas	SRR39401079	LR15615	Cyprinoidei_Cyprinidae_Ageneiogarra_sp_LR15615	20.0	35.1	0.57	presente	Cyprinidae	non-miniature	34.5	1156.287975	diploid	presente
+Acrossocheilus_sp	lecturas	SRR39401080	123LR15726		26.0	42.1	0.618	presente	Cyprinidae	non-miniature	19.2	937.795838999999	diploid	
+Acapoeta_tanganicae	lecturas	SRR39401081	LR15266	Cyprinoidei_Cyprinidae_Acapoeta_tanganicae_LR15266	23.0	50.6	0.455	presente	Cyprinidae	non-miniature	29.0	1296.278517	polyploid	presente
+Aborichthys_elongatus	lecturas	SRR39401082	LR15343	Cobitoidei_Nemacheilidae_Aborichthys_elongatus_LR15343	42.0	78.5	0.535	presente	Nemacheilidae	non-miniature	7.4	518.9789115	diploid	presente
+Myxocyprinus_asiaticus	lecturas	SRR39401083	LR15059	Catostomoidei_Catostomidae_Myxocyprinus_asiaticus_GCF_019703515.2_NCBI	14.0	31.5	0.444	presente	Catostomidae	non-miniature	50.0	2309.8565115	polyploid	presente
+Yaoshania_pachychilus	lecturas	SRR39401084	113LR15713	Cobitoidei_Gastromyzontidae_Yaoshania_pachychilus_113LR15713	54.0	93.9	0.575	presente	Gastromyzontidae	non-miniature	5.8	435.496029	diploid	presente
+Acheilognathus_sp	lecturas	SRR39401085	LR15063	Cyprinoidei_Acheilognathidae_Acheilognathus_sp_LR15063	27.0	45.2	0.598	presente	Acheilognathidae	non-miniature	5.2	830.2436615	diploid	presente
+Acheilognathus_deignani	lecturas	SRR39401086	LR15562	Cyprinoidei_Acheilognathidae_Acheilognathus_deignani_LR15562	40.0	56.6	0.707	presente	Acheilognathidae	non-miniature	5.2	752.796849	diploid	presente
+Vaillantella_maassi	lecturas	SRR39401087	LR15334	Cobitoidei_Vaillantellidae_Vaillantella_maassii_LR15334	61.0	95.7	0.637	presente	Vaillantellidae	non-miniature	12.5	427.556522999999	diploid	presente
+Serpenticobitis_zonata	lecturas	SRR39401088	LR15357	Cobitoidei_Serpenticobitidae_Serpenticobitis_zonata_LR15357	47.0	72.2	0.651	presente	Serpenticobitidae	non-miniature	4.3	440.308335	diploid	presente
+Traccatichthys_pulcher	lecturas	SRR39401089	LR15072	Cobitoidei_Nemacheilidae_Traccatichthys_pulcher_LR15072	38.0	76.7	0.495	presente	Nemacheilidae	non-miniature	5.39	580.90548	diploid	presente
+Psilorhynchus_sp	lecturas	SRR39401090	LR09467	Cyprinoidei_Psilorhynchidae_Psilorhynchus_sp_LR09467	36.0	76.1	0.473	presente	Psilorhynchidae	non-miniature	5.1	482.2281655	diploid	presente
+Canthophrys_gongota	lecturas	SRR39401091	LR15575	Cobitoidei_Cobitidae_Canthophrys_gongota_LR15575	38.0	59.5	0.639	presente	Cobitidae	non-miniature	6.51	540.609599	diploid	presente
+Bibarba_sp	lecturas	SRR39401092	LR15193	Cobitoidei_Cobitidae_Bibarba_sp_LR15193	54.0	72.2	0.747	presente	Cobitidae	non-miniature	5.5	527.2919795	diploid	presente
+Acantopsis_sp	lecturas	SRR39401093		Cobitoidei_Cobitidae_Acantopsis_sp_LR15340	29.0	43.8	0.661	presente						presente
+Aperioptus_robertsi	lecturas	SRR39401094	115LR15715	Cobitoidei_Cobitidae_Acanthopsoides_robertsi_115LR15715	40.0	53.9	0.742	presente	Cobitidae	non-miniature	5.5	595.835145	diploid	presente
+Syncrossus_berdmorei	lecturas	SRR39401095	LR15446	Cobitoidei_Botiidae_Syncrossus_berdmorei_LR15446	56.0	291.9	0.192	ambiguo	Botiidae	non-miniature	11.1	650.9152395	polyploid	ambiguo
+Gyrinocheilus_sp	lecturas	SRR39401096	104EA0138	Gyrinocheiloidei_Gyrinocheilidae_Gyrinocheilus_sp_104EA0138	52.0	78.3	0.664	presente	Gyrinocheilidae	non-miniature	28.0	475.371299499999	diploid	presente
+Sinibotia_robusta	lecturas	SRR39401097	LR15151	Cobitoidei_Botiidae_Sinibotia_robusta_LR15151	33.0	94.4	0.35	presente	Botiidae	non-miniature	6.63	755.627618	polyploid	presente
+Gyrinocheilus_pustulosus	lecturas	SRR39401098	LR15097	Gyrinocheiloidei_Gyrinocheilidae_Gyrinocheilus_pustulosus_LR15097	39.0	94.6	0.412	presente	Gyrinocheilidae	non-miniature	28.0	478.312675499999	diploid	presente
+Oxygaster_pointoni	lecturas	SRR39401099	LR15574	Cyprinoidei_Xenocyprididae_Oxygaster_pointoni_LR15574	28.0	53.0	0.528	presente	Xenocyprididae	non-miniature	15.5	862.965098	diploid	presente
+Opsariichthys_pachycephalus	lecturas	SRR39401100	128LR15724	Cyprinoidei_Xenocyprididae_Opsariichthys_pachycephalus_128LR15724	50.0	59.3	0.844	presente	Xenocyprididae	non-miniature	12.2	734.149206999999	diploid	presente
+Opsariichthys_bidens	lecturas	SRR39401101	102LR15621	Cyprinoidei_Xenocyprididae_Opsariichthys_bidens_102LR15621	24.0	48.1	0.499	presente	Xenocyprididae	non-miniature	16.0	905.3265225	diploid	presente
+Sarcocheilichthys_hainanensis	lecturas	SRR39401102	LR15571	Cyprinoidei_Gobionidae_Sarcocheilichthys_hainanensis_LR15571	50.0	84.3	0.593	presente	Gobionidae	non-miniature	7.5	1208.260729	diploid	presente
+Hemiculter_sp	lecturas	SRR39401103	103LR15622	Cyprinoidei_Xenocyprididae_Hemiculter_sp_103LR15622	17.0	38.5	0.442	presente	Xenocyprididae	non-miniature	20.5	977.935087	diploid	presente
+Microphysogobio_tafangensis	lecturas	SRR39401104	LR15062	Cyprinoidei_Gobionidae_Microphysogobio_tafangensis_LR15062	25.0	47.4	0.527	presente	Gobionidae	non-miniature	7.8	947.9214225	diploid	presente
+Ladislavia_taczanowskii	lecturas	SRR39401105	LR15570	Cyprinoidei_Gobionidae_Ladislavia_taczanowskii_LR15570	17.0	28.9	0.589	presente	Gobionidae	non-miniature	12.0	1113.5590635	diploid	presente
+Hemibarbus_maculatus	lecturas	SRR39401106	LR15569	Cyprinoidei_Gobionidae_Hemibarbus_maculatus_LR15569	16.0	38.7	0.413	presente	Gobionidae	non-miniature	34.0	1025.660767	diploid	presente
+Botia_kubotai	lecturas	SRR39401107	LR15149	Cobitoidei_Botiidae_Botia_kubotai_LR15149	60.0	84.8	0.708	presente	Botiidae	non-miniature	8.49	820.033105	polyploid	presente
+Trigonostigma_espei	lecturas	SRR39401109	LR08812	Cyprinoidei_Danionidae_Trigonostigma_espei_LR08812	17.0	36.9	0.461	presente	Danionidae	proportioned-dwarf	2.5	1111.5108115	diploid	presente
+Trigonopoma_sp	lecturas	SRR39401110	LR11656	Cyprinoidei_Danionidae_Trigonopoma_sp_LR11656	20.0	36.9	0.542	presente	Danionidae	non-miniature	5.0	1076.3342025	diploid	presente
+Rasbora_pauciperforata	lecturas	SRR39401111	LR10181	Cyprinoidei_Danionidae_Trigonopoma_pauciperforatum_LR10181	21.0	41.4	0.507	presente	Danionidae	non-miniature	5.0	984.3918645	diploid	presente
+Trigonopoma_gracile	lecturas	SRR39401112	LR08172	Cyprinoidei_Danionidae_Trigonopoma_gracile_LR08172	31.0	45.2	0.686	presente	Danionidae	non-miniature	5.5	872.3102705	diploid	presente
+Thryssocypris_tonlesapensis	lecturas	SRR39401113	EA0635	Cyprinoidei_incertae.sedis_Thryssocypris_tonlesapensis_EA0634	56.0	85.7	0.654	presente	Danionidae	non-miniature	6.4	429.476711	diploid	presente
+Travancoria_elongata	lecturas	SRR39401117	LR15181	Cobitoidei_Balitoridae_Travancoria_elongata_LR15181	51.0	79.9	0.639	presente	Balitoridae	non-miniature	11.4	419.2010845	diploid	presente
+Chelaethiops_sp	lecturas	SRR39401118	LR15597	Cyprinoidei_Danionidae_Chelaethiops_sp_LR15597	35.0	70.7	0.495	presente	Danionidae	non-miniature	5.0	593.233103	diploid	presente
+Neohomaloptera_johorensis	lecturas	SRR39401119	LR15487	Cobitoidei_Balitoridae_Neohomaloptera_johorensis_LR15487	61.0	120.1	0.508	presente	Balitoridae	proportioned-dwarf	2.05	357.9961275	diploid	presente
+Chelaethiops_sp	lecturas	SRR39401120	LR15596	Cyprinoidei_Danionidae_Chelaethiops_sp_LR15596	43.0	55.0	0.781	presente	Danionidae	non-miniature	5.0	608.825888	diploid	presente
+Chelaethiops_elongatus	lecturas	SRR39401121	131LR08589	Cyprinoidei_Danionidae_Chelaethiops_elongatus_131LR08589	34.0	62.2	0.547	presente	Danionidae	non-miniature	4.8	579.350842	diploid	presente
+Cabdio_morar	lecturas	SRR39401122	LR15567	Cyprinoidei_Danionidae_Cabdio_morar_LR15567	33.0	73.4	0.45	presente	Danionidae	non-miniature	10.0	549.1380975	diploid	presente
+Luciosoma_sp	lecturas	SRR39401123	LR01659	Cyprinoidei_Danionidae_Luciosoma_sp_LR01659	30.0	64.6	0.464	presente	Danionidae	non-miniature	26.0	618.508898999999	diploid	presente
+Leptocypris_sp	lecturas	SRR39401124	LR15601	Cyprinoidei_Danionidae_Leptocypris_sp_LR15601	21.0	54.1	0.388	presente	Danionidae	non-miniature	11.8	620.067571999999	diploid	presente
+Laubuka_sp	lecturas	SRR39401125	LR02238	Cyprinoidei_Danionidae_Laubuka_sp_132LR09413	12.0	34.7	0.346	presente	Danionidae	non-miniature	8.0	1330.2726165	diploid	presente
+Laubuka_sp	lecturas	SRR39401126	132LR09413	Cyprinoidei_Danionidae_Laubuka_sp_132LR09413	18.0	34.7	0.519	presente	Danionidae	non-miniature	8.0	1300.971656	diploid	presente
+Sinogastromyzon_puliensis	lecturas	SRR39401128	LR15088	Cobitoidei_Balitoridae_Sinogastromyzon_puliensis_LR15088	42.0	76.3	0.551	presente	Balitoridae	non-miniature	7.45	537.5911635	diploid	presente
+Inlecypris_auropurpureus	lecturas	SRR39401129	LR01646	Cyprinoidei_Danionidae_Inlecypris_auropurpurea_LR01646	20.0	32.2	0.621	presente	Danionidae	non-miniature	5.0	1316.9656245	diploid	presente
+Esomus_sp	lecturas	SRR39401130	LR12503	Cyprinoidei_Danionidae_Esomus_sp_LR12503	33.0	77.6	0.425	presente	Danionidae	non-miniature	7.5	519.440578	diploid	presente
+Esomus_danrica	lecturas	SRR39401132	116LR15716	Cyprinoidei_Danionidae_Esomus_danricus_116LR15716	43.0	78.1	0.551	presente	Danionidae	non-miniature	6.0	521.562969	diploid	presente
+Engraulicypris_sp	lecturas	SRR39401133	LR15656	Cyprinoidei_Danionidae_Engraulicypris_sp_LR15656	46.0	66.9	0.688	presente	Danionidae	non-miniature	7.5	554.3224095	diploid	presente
+Engraulicypris_sp	lecturas	SRR39401134	LR15598	Cyprinoidei_Danionidae_Engraulicypris_sp_LR15598	49.0	75.6	0.648	presente	Danionidae	non-miniature	7.5	574.0788735	diploid	presente
+Poropuntius_sp	lecturas	SRR39401138	LR15083	Cyprinoidei_Cyprinidae_Poropuntius_sp_LR15083	23.0	46.3	0.497	presente	Cyprinidae	non-miniature	20.0	844.2840135	diploid	presente
+Brevibora_cheeya	lecturas	SRR39401141	LR09154	Cyprinoidei_Danionidae_Brevibora_cheeya_LR09154	21.0	41.8	0.502	presente	Danionidae	proportioned-dwarf	2.8	1057.6861085	diploid	presente
+Cyclocheilichthys_apogon	lecturas	SRR39401142	LR10341	Cyprinoidei_Cyprinidae_Cyclocheilichthys_apogon_LR10341	24.0	47.6	0.504	presente	Cyprinidae	non-miniature	16.0	833.4889075	diploid	presente
+Crossocheilus_reticulatus	lecturas	SRR39401143	LR10955	Cyprinoidei_Cyprinidae_Crossocheilus_reticulatus_LR10955	17.0	32.7	0.521	presente	Cyprinidae	non-miniature	17.0	1296.106392	diploid	presente
+Clypeobarbus_sp	lecturas	SRR39401144	LR15270	Cyprinoidei_Cyprinidae_Clypeobarbus_sp_LR15270	23.0	36.9	0.623	presente	Cyprinidae	non-miniature	3.3	829.8340545	diploid	presente
+Chagunius_sp	lecturas	SRR39401145	EA0401	Cyprinoidei_Cyprinidae_Chagunius_sp_EA0401	28.0	48.1	0.582	presente	Cyprinidae	non-miniature	25.0	720.7493135	diploid	presente
+Chagunius_sp	lecturas	SRR39401146	EA0357	Cyprinoidei_Cyprinidae_Chagunius_sp_EA0401	23.0	60.6	0.379	presente	Cyprinidae	non-miniature	25.0	734.8841255	diploid	presente
+Ceratogarra_cambodgiensis	lecturas	SRR39401147	LR15111	Cyprinoidei_Cyprinidae_Ceratogarra_cambodgiensis_LR15111	27.0	54.6	0.495	presente	Cyprinidae	non-miniature	10.0	847.3830295	diploid	presente
+Hemimyzon_formosanus	lecturas	SRR39401148	LR15176	Cobitoidei_Balitoridae_Hemimyzon_formosanum_LR15176	51.0	82.1	0.621	presente	Balitoridae	non-miniature	10.0	509.5217015	diploid	presente
+Barbonymus_altus	lecturas	SRR39401149	EA0124	Cyprinoidei_Cyprinidae_Barbonymus_altus_EA0124	25.0	49.7	0.503	presente	Cyprinidae	non-miniature	15.0	809.7455375	diploid	presente
+Barbodes_sellifer	lecturas	SRR39401151	120LR15721	Cyprinoidei_Cyprinidae_Barbodes_sellifer_120LR15721	17.0	48.3	0.352	presente	Cyprinidae	non-miniature	9.8	778.466779	diploid	presente
+Striuntius_lateristriga	lecturas	SRR39401152	LR15102	Cyprinoidei_Cyprinidae_Barbodes_lateristriga_LR15102	29.0	48.3	0.6	presente	Cyprinidae	non-miniature	7.0	740.2849255	diploid	presente
+Tor_sp	lecturas	SRR39401153	LR09401	Cyprinoidei_Cyprinidae_Tor_sp_LR09401	43.0	43.6	0.986	presente	Cyprinidae	non-miniature	150.0	1807.67652099999	polyploid	presente
+Barbichthys_laevis	lecturas	SRR39401154	LR15079	Cyprinoidei_Cyprinidae_Barbichthys_laevis_LR15079	18.0	49.2	0.366	presente	Cyprinidae	non-miniature	30.0	887.40424	diploid	presente
+Tor_sp	lecturas	SRR39401155		Cyprinoidei_Cyprinidae_Tor_sp_LR09401	25.0	50.3	0.497	presente		non-miniature	150.0		polyploid	presente
+Lepturichthys_fimbriata	lecturas	SRR39401156	LR15172	Cobitoidei_Balitoridae_Lepturichthys_fimbriatus_LR15172	35.0	75.6	0.463	presente	Balitoridae	non-miniature	16.1	530.934379999999	diploid	presente
+Amblypharyngodon_chulabhornae	lecturas	SRR39401157	LR01638	Cyprinoidei_Danionidae_Amblypharyngodon_chulabhornae_LR01638	35.0	61.5	0.569	presente	Danionidae	non-miniature	4.0	561.2414775	diploid	presente
+Pethia_sp	lecturas	SRR39401158	LR15646	Cyprinoidei_Cyprinidae_Pethia_sp_LR15646	26.0	57.5	0.452	presente	Cyprinidae	non-miniature	4.12	683.0203955	diploid	presente
+Homalopteroides_tweediei	lecturas	SRR39401159	LR15093	Cobitoidei_Balitoridae_Homalopteroides_tweediei_LR15093	57.0	100.2	0.569	presente	Balitoridae	proportioned-dwarf	4.0	413.243012	diploid	presente
+Probarbus_jullieni	lecturas	SRR39401160	LR15065	Cyprinoidei_Cyprinidae_Probarbus_jullieni_LR15065	36.0	145.6	0.247	ambiguo	Cyprinidae	non-miniature	150.0	1350.403991	polyploid	ambiguo
+Puntigrus_partipentazona	lecturas	SRR39401161	125LR15728	Cyprinoidei_Cyprinidae_Puntigrus_partipentazona_125LR15728	31.0	65.1	0.476	presente	Cyprinidae	non-miniature	2.95	597.0353715	diploid	presente
+Puntigrus_tetrazona	lecturas	SRR39401162	146LR15695	Cyprinoidei_Cyprinidae_Puntigrus_tetrazona_GCF_018831695.1_NCBI	42.0	73.6	0.571	presente	Cyprinidae	non-miniature	4.78	579.1733795	diploid	presente
+Puntioplites_bulu	lecturas	SRR39401163		Cyprinoidei_Cyprinidae_Puntioplites_bulu_LR15108	20.0	37.6	0.532	presente						presente
+Puntius_sp	lecturas	SRR39401164	EA1300	Cyprinoidei_Cyprinidae_Puntius_sp_EA1300	25.0	47.2	0.53	presente	Cyprinidae	non-miniature	14.7	797.7085135	diploid	presente
+Dawkinsia_denisonii	lecturas	SRR39401166	145LR15691	Cyprinoidei_Cyprinidae_Sahyadria_denisonii_145LR15691	25.0	58.8	0.425	presente	Cyprinidae	non-miniature	19.0	697.740818499999	diploid	presente
+Moxostoma_congestum	lecturas	SRR39401167	LR15248	Catostomoidei_Catostomidae_Moxostoma_congestum_LR15248	26.0	30.2	0.861	presente	Catostomidae	non-miniature	41.1	2017.5309045	polyploid	presente
+Beaufortia_kweichowensis	lecturas	SRR39401168	LR15085	Cobitoidei_Gastromyzontidae_Beaufortia_kweichowensis_GCA_019155185.1_NCBI	59.0	85.2	0.692	presente	Gastromyzontidae	non-miniature	5.4	462.685559	diploid	presente
+Annamia_sp	lecturas	SRR39401169	LR15180	Cobitoidei_Gastromyzontidae_Annamia_sp_LR15180	51.0	99.1	0.515	presente	Gastromyzontidae	non-miniature	7.91	417.169605	diploid	presente
+Ellopostoma_mystax	lecturas	SRR39401170	141LR15748	Cobitoidei_Ellopostomatidae_Ellopostoma_mystax_141LR15748	49.0	77.6	0.631	presente	Ellopostomatidae	non-miniature	5.53	452.711028	diploid	presente
+Theriodes_sandakanensis	lecturas	SRR39401171	LR15146	Cobitoidei_Cobitidae_Theriodes_sandakanensis_LR15146	35.0	76.5	0.458	presente	Cobitidae	non-miniature	3.5	487.8762655	diploid	presente
+Sabanejewia_balcanica	lecturas	SRR39401172	LR15609	Cobitoidei_Cobitidae_Sabanejewia_balcanica_LR15609	17.0	41.6	0.409	presente	Cobitidae	non-miniature	9.0	1039.0082395	diploid	presente
+Pangio_sp	lecturas	SRR39401173	LR15141	Cobitoidei_Cobitidae_Pangio_sp_LR15141	35.0	51.2	0.683	presente	Cobitidae	non-miniature	6.62	813.269303	diploid	presente
+Misgurnus_sp	lecturas	SRR39401174	LR15162		1.0	23.9	0.042	ausente	Cobitidae	non-miniature	16.7	1236.165002	diploid	
+Lepidocephalichthys_sp	lecturas	SRR39401175	LR15467	Cobitoidei_Cobitidae_Lepidocephalichthys_sp_LR15467	32.0	68.2	0.469	presente	Cobitidae	non-miniature	6.28	656.0133925	diploid	presente
+Kottelatlimia_pristes	lecturas	SRR39401176	114LR15714	Cobitoidei_Cobitidae_Kottelatlimia_pristes_114LR15714	16.0	42.3	0.378	presente	Cobitidae	non-miniature	4.0	892.8929045	diploid	presente
+Kottelatlimia_katik	lecturas	SRR39401177	LR15170	Cobitoidei_Cobitidae_Kottelatlimia_katik_LR15170	19.0	37.6	0.506	presente	Cobitidae	proportioned-dwarf	1.35	1043.902574	diploid	presente
+Psilorhynchus_sp	lecturas	SRR39401178	LR15089	Cyprinoidei_Psilorhynchidae_Psilorhynchus_sp_LR15089	46.0	87.7	0.525	presente	Psilorhynchidae	non-miniature	4.9	389.6027315	diploid	presente
+Leuciscus_leuciscus	lecturas	SRR39401179	2223_2013	Cyprinoidei_Leuciscidae_Leuciscus_leuciscus_2223_2013	24.0	37.1	0.646	presente	Leuciscidae	non-miniature	25.0	1159.306152	diploid	presente
+Hybognathus_nuchalis	lecturas	SRR39401180	LR15253		29.0	36.2	0.8	presente	Leuciscidae	non-miniature	9.3	937.2453165	diploid	
+Gila_pandora	lecturas	SRR39401181	110LR15746	Cyprinoidei_Leuciscidae_Gila_pandora_110LR15746	38.0	34.9	1.089	presente	Leuciscidae	non-miniature	15.0	1133.136695	diploid	presente
+Dionda_flavipinnis	lecturas	SRR39401182	LR15252	Cyprinoidei_Leuciscidae_Dionda_sp_LR15252	28.0	44.1	0.635	presente	Leuciscidae	non-miniature	7.6	817.721597499999	diploid	presente
+Chromobotia_macracanthus	lecturas	SRR39401183	LR15148	Cobitoidei_Botiidae_Chromobotia_macracanthus_LR15148	63.0	91.7	0.687	presente	Botiidae	non-miniature	25.0	821.307172	polyploid	presente
+Erimyzon_sucetta	lecturas	SRR39401184	LR15245	Catostomoidei_Catostomidae_Erimyzon_sucetta_LR15245	25.0	42.3	0.591	presente	Catostomidae	non-miniature	31.4	1788.1721725	polyploid	presente
+Cyprinella_lutrensis	lecturas	SRR39401185	LR15250	Cyprinoidei_Leuciscidae_Cyprinella_lutrensis_GCA_027497675.1_NCBI	27.0	38.2	0.706	presente	Leuciscidae	non-miniature	7.1	1010.965464	diploid	presente
+Chrosomus_erythrogaster	lecturas	SRR39401186	108LR15742	Cyprinoidei_Leuciscidae_Chrosomus_sp_108LR15742	11.0	29.5	0.373	presente	Leuciscidae	non-miniature	6.1	1134.1928395	diploid	presente
+Squalidus_sp	lecturas	SRR39401190	LR15579	Cyprinoidei_Gobionidae_Squalidus_sp_LR15579	27.0	37.6	0.718	presente	Gobionidae	non-miniature	18.8	994.7189	diploid	presente
+Pectenocypris_sp	lecturas	SRR39401192	LR15349	Cyprinoidei_Danionidae_Pectenocypris_sp_LR15081	28.0	60.4	0.464	presente	Danionidae	non-miniature	3.5	779.766298	diploid	presente
+Pectenocypris_sp	lecturas	SRR39401193	LR15081	Cyprinoidei_Danionidae_Pectenocypris_sp_LR15081	27.0	60.4	0.447	presente	Danionidae	non-miniature	3.5	783.181521	diploid	presente
+Barbucca_elongata	lecturas	SRR39401194	LR15360	Cobitoidei_Barbuccidae_Barbucca_elongatus_LR15360	60.0	102.4	0.586	presente	Barbuccidae	proportioned-dwarf	2.7	379.578087	diploid	presente
+Opsarius_sp	lecturas	SRR39401195	LR02136	Cyprinoidei_Danionidae_Opsarius_sp_LR02136	37.0	61.3	0.604	presente	Danionidae	non-miniature	9.1	565.8439115	diploid	presente
+Opsarius_sp	lecturas	SRR39401196	LR12240	Cyprinoidei_Danionidae_Opsarius_sp_LR12240	33.0	78.1	0.423	presente	Danionidae	non-miniature	11.0	588.440035	diploid	presente
+Opsarius_sp	lecturas	SRR39401197	142LR15666	Cyprinoidei_Danionidae_Opsarius_sp_142LR15666	39.0	68.7	0.568	presente	Danionidae	non-miniature	9.1	596.7035535	diploid	presente
+Opsaridium_sp	lecturas	SRR39401198	LR15602	Cyprinoidei_Danionidae_Opsaridium_sp_LR15602	27.0	65.8	0.411	presente	Danionidae	non-miniature	12.0	686.125769	diploid	presente
+Opsaridium_sp	lecturas	SRR39401199	LR15290	Cyprinoidei_Danionidae_Opsaridium_sp_LR15290	36.0	72.7	0.495	presente	Danionidae	non-miniature	12.0	644.8919075	diploid	presente
+Opsaridium_sp	lecturas	SRR39401200	LR15289	Cyprinoidei_Danionidae_Opsaridium_sp_LR15289	34.0	61.3	0.555	presente	Danionidae	non-miniature	12.0	672.00933	diploid	presente
+Neochela_dadiburjori	lecturas	SRR39401201	LR14062	Cyprinoidei_Danionidae_Neochela_dadiburjori_LR14062	26.0	48.5	0.536	presente	Danionidae	non-miniature	3.0	761.266707	diploid	presente
+Nematabramis_steindachnerii	lecturas	SRR39401202	LR15099	Cyprinoidei_Danionidae_Nematabramis_steindachneri_LR15099	32.0	55.5	0.577	presente	Danionidae	non-miniature	11.2	831.6380315	diploid	presente
+Nematabramis_everetti	lecturas	SRR39401203	121LR15723	Cyprinoidei_Danionidae_Nematabramis_everetti_121LR15723	21.0	48.5	0.433	presente	Danionidae	non-miniature	10.5	861.4281705	diploid	presente
+Sundoreonectes_sabanus	lecturas	SRR39401204	LR15455	Cobitoidei_Nemacheilidae_Sundoreonectes_sabanus_LR15455	36.0	64.2	0.561	presente	Nemacheilidae	non-miniature	5.41	655.1661915	diploid	presente
+Schistura_sp	lecturas	SRR39401205	LR15496	Cobitoidei_Nemacheilidae_Schistura_sp_LR15496	27.0	53.7	0.503	presente	Nemacheilidae	non-miniature	4.2	689.9526065	diploid	presente
+Schistura_sp	lecturas	SRR39401206	LR15454	Cobitoidei_Nemacheilidae_Schistura_sp_LR15454	64.0	84.3	0.759	presente	Nemacheilidae	non-miniature	5.4	521.701272	diploid	presente
+Schistura_fasciolata	lecturas	SRR39401207	LR15152	Cobitoidei_Nemacheilidae_Schistura_fasciolata_LR15152	25.0	57.9	0.432	presente	Nemacheilidae	non-miniature	6.0	697.99144	diploid	presente
+Balitora_sp	lecturas	SRR39401208	LR15354	Cobitoidei_Balitoridae_Balitora_sp_LR15354	66.0	89.9	0.734	presente	Balitoridae	non-miniature	7.7	492.1509565	diploid	presente
+Petruichthys_brevis	lecturas	SRR39401209	LR15189	Cobitoidei_Nemacheilidae_Petruichthys_brevis_LR15189	43.0	63.8	0.675	presente	Nemacheilidae	non-miniature	3.21	573.6448505	diploid	presente
+Paracanthocobitis_botia	lecturas	SRR39401210	LR15504	Cobitoidei_Nemacheilidae_Paracanthocobitis_botia_LR15504	47.0	68.2	0.689	presente	Nemacheilidae	non-miniature	5.77	550.526874	diploid	presente
+Oreonectes_platycephalus	lecturas	SRR39401211	LR15490	Cobitoidei_Nemacheilidae_Oreonectes_platycephalus_LR15490	37.0	63.1	0.587	presente	Nemacheilidae	non-miniature	4.38	606.3790165	diploid	presente
+Neonoemacheilus_sp	lecturas	SRR39401212	LR15611	Cobitoidei_Nemacheilidae_Neonoemacheilus_sp_LR15611	34.0	64.4	0.528	presente	Nemacheilidae	non-miniature	7.32	611.2010315	diploid	presente
+Nemacheilus_selangoricus	lecturas	SRR39401213	LR15459	Cobitoidei_Nemacheilidae_Nemacheilus_selangoricus_LR15459	48.0	83.4	0.575	presente	Nemacheilidae	non-miniature	4.8	475.761951	diploid	presente
+Micronemacheilus_sp	lecturas	SRR39401214	LR15337	Cobitoidei_Nemacheilidae_Micronemacheilus_sp_LR15337	26.0	78.7	0.33	presente	Nemacheilidae	non-miniature	5.8	551.353681999999	diploid	presente
+Lefua_sp	lecturas	SRR39401215	LR15462	Cobitoidei_Nemacheilidae_Lefua_sp_LR15462	35.0	74.9	0.467	presente	Nemacheilidae	non-miniature	5.3	551.812392999999	diploid	presente
+Rohtee_ogilbii	lecturas	SRR39401216	124LR15727	Cyprinoidei_Cyprinidae_Rohtee_ogilbii_124LR15727	32.0	48.5	0.659	presente	Cyprinidae	non-miniature	40.0	707.9410645	diploid	presente
+Barilius_mesopotamicus	lecturas	SRR39401220	LR15576	Cyprinoidei_Danionidae_Barilius_mesopotamicus_LR15576	31.0	61.1	0.508	presente	Danionidae	non-miniature	5.0	632.689895	diploid	presente
+Schismatorhynchos_heterorhynchos	lecturas	SRR39401221	LR15101	Cyprinoidei_Cyprinidae_Schismatorhynchos_heterorhynchos_LR15101	22.0	50.1	0.439	presente	Cyprinidae	non-miniature	28.3	892.758514	diploid	presente
+Semiplotus_sp	lecturas	SRR39401222	LR09392	Cyprinoidei_Cyprinidae_Semiplotus_sp_LR09392	26.0	51.7	0.503	presente	Cyprinidae	non-miniature	18.5	790.364518	diploid	presente
+Spinibarbichthys_denticulatus	lecturas	SRR39401223	111LR15711	Cyprinoidei_Cyprinidae_Spinibarbichthys_denticulaltus_111LR15711	16.0	47.9	0.334	presente	Cyprinidae	non-miniature	41.5	1725.003298	polyploid	presente
+Spinibarbichthys_sp	lecturas	SRR39401224	LR15617	Cyprinoidei_Cyprinidae_Spinibarbichthys_sp_LR15617	23.0	47.4	0.485	presente	Cyprinidae	non-miniature	41.5	1769.692711	polyploid	presente
+Striuntius_lineatus	lecturas	SRR39401225	126LR15731	Cyprinoidei_Cyprinidae_Striuntius_lineatus_126LR15731	23.0	60.6	0.379	presente	Cyprinidae	non-miniature	5.95	652.6217305	diploid	presente
+Systomus_binduchitra	lecturas	SRR39401226	LR06590	Cyprinoidei_Cyprinidae_Systomus_binduchitra_LR06590	48.0	53.5	0.898	presente	Cyprinidae	non-miniature	6.0	649.663832	diploid	presente
+Thynnichthys_sp	lecturas	SRR39401227	LR12880	Cyprinoidei_Cyprinidae_Thynnichthys_sp_LR12880	24.0	39.4	0.61	presente	Cyprinidae	non-miniature	20.0	946.176263	diploid	presente
+Homalopterula_gymnogaster	lecturas	SRR39401228	LR15091	Cobitoidei_Balitoridae_Homalopterula_gymnogaster_LR15091	74.0	105.8	0.699	presente	Balitoridae	non-miniature	6.6	347.959084	diploid	presente
+Scaphiodonichthys_acanthopterus	lecturas	SRR39401229	LR15564	Cyprinoidei_Cyprinidae_Scaphiodonichthys_acanthopterus_LR15564	26.0	49.4	0.526	presente	Cyprinidae	non-miniature	31.0	780.9871525	diploid	presente
+Pethia_sp	lecturas	SRR39401230	LR06584	Cyprinoidei_Danionidae_Pethia_sp_LR06584	43.0	55.9	0.769	presente	Cyprinidae	non-miniature	6.0	686.5376455	diploid	presente
+Paraspinibarbus_sp	lecturas	SRR39401231	LR15618	Cyprinoidei_Cyprinidae_Paraspinibarbus_sp_LR15618	25.0	41.4	0.604	presente	Cyprinidae	non-miniature	40.0	823.683848	diploid	presente
+Paracrossochilus_sp	lecturas	SRR39401232	LR01656	Cyprinoidei_Cyprinidae_Paracrossochilus_sp_LR01656	24.0	28.4	0.845	presente	Cyprinidae	non-miniature	9.5	1281.93621399999	diploid	presente
+Osteochilus_vittatoides	lecturas	SRR39401233	LR15096	Cyprinoidei_Cyprinidae_Osteochilus_vittatoides_LR15096	21.0	38.5	0.546	presente	Cyprinidae	non-miniature	11.9	1105.5313155	diploid	presente
+Osteobrama_cunma	lecturas	SRR39401234	LR09367	Cyprinoidei_Cyprinidae_Osteobrama_cunma_LR09367	41.0	47.9	0.857	presente	Cyprinidae	non-miniature	12.0	718.0802345	diploid	presente
+Oreichthys_sp	lecturas	SRR39401235	EA1291	Cyprinoidei_Cyprinidae_Oreichthys_sp_EA1291	20.0	62.0	0.323	presente	Cyprinidae	non-miniature	3.0	679.6391495	diploid	presente
+Oliotius_oligolepis	lecturas	SRR39401236	143LR15682	Cyprinoidei_Cyprinidae_Oliotius_oligolepis_143LR15682	30.0	73.1	0.41	presente	Cyprinidae	non-miniature	5.0	605.885023999999	diploid	presente
+Neolissochilus_sp	lecturas	SRR39401237	LR15612	Cyprinoidei_Cyprinidae_Neolissochilus_sp_LR15612	25.0	43.2	0.579	presente	Cyprinidae	non-miniature	60.0	857.157747	polyploid	presente
+Mystacoleucus_argenteus	lecturas	SRR39401238	LR15565	Cyprinoidei_Cyprinidae_Mystacoleucus_argenteus_LR15565	38.0	59.5	0.639	presente	Cyprinidae	non-miniature	15.0	683.1196445	diploid	presente
+Homalopteroides_stephensoni	lecturas	SRR39401239	LR15140	Cobitoidei_Balitoridae_Homalopteroides_stephensoni_LR15140	50.0	91.9	0.544	presente	Balitoridae	non-miniature	6.5	488.628322	diploid	presente
+Cycleptus_sp	lecturas	SRR39401240	LR15247	Catostomoidei_Catostomidae_Cycleptus_sp_LR15247	25.0	32.7	0.766	presente	Catostomidae	non-miniature	66.5	2509.8172125	polyploid	presente
+Candidia_pingtungensis	lecturas	SRR39401241	118LR15719	Cyprinoidei_Xenocyprididae_Candidia_pingtungensis_118LR15719	38.0	53.9	0.705	presente	Xenocyprididae	non-miniature	11.4	780.192702	diploid	presente
+Tinca_tinca	lecturas	SRR39401242	1545_2010	Cyprinoidei_Tincidae_Tinca_tinca_1545_2010	32.0	44.7	0.715	presente	Tincidae	non-miniature	70.0	1048.69225	diploid	presente
+Tanichthys_micagemmae	lecturas	SRR39401243	LR02462	Cyprinoidei_Tanichthyidae_Tanichthys_micagemmae_LR02462	45.0	109.2	0.412	presente	Tanichthyidae	proportioned-dwarf	2.3	1093.443826	diploid	presente
+Tanichthys_albonubes	lecturas	SRR39401244	LR15110	Cyprinoidei_Tanichthyidae_Tanichthys_albonudes_LR15110	25.0	43.2	0.579	presente	Tanichthyidae	proportioned-dwarf	2.77	1071.863989	diploid	presente
+Parabotia_bimaculata	lecturas	SRR39401246	112LR15712	Cobitoidei_Botiidae_Parabotia_bimaculatus_112LR15712	42.0	61.5	0.683	presente	Botiidae	non-miniature	15.8	615.909513	diploid	presente
+Alburnoides_bipunctatus	lecturas	SRR39401250	2180_2012	Cyprinoidei_Leuciscidae_Alburnoides_bipunctatus_2180_2012	21.0	34.7	0.606	presente	Leuciscidae	non-miniature	13.0	1096.164941	diploid	presente
+Abramis_brama	lecturas	SRR39401252	1360_2014	Cyprinoidei_Leuciscidae_Abramis_brama_GCA_963993115.1_NCBI	24.0	35.8	0.671	presente	Leuciscidae	non-miniature	70.0	1081.5774565	diploid	presente
+Rasbosoma_spilocerca	lecturas	SRR39401253	LR12212	Cyprinoidei_Danionidae_Rasbosoma_spilocerca_LR12212	21.0	36.5	0.576	presente	Danionidae	proportioned-dwarf	2.6	901.6240925	diploid	presente
+Ambastaia_sidthimunki	lecturas	SRR39401255	LR15330	Cobitoidei_Botiidae_Ambastaia_sidthimunki_LR15330	37.0	97.3	0.38	presente	Botiidae	non-miniature	5.5	728.1004125	polyploid	presente
+Rasbora_trilineata	lecturas	SRR39401256	LR09847	Cyprinoidei_Danionidae_Rasbora_trilineata_LR09847	15.0	44.1	0.34	presente	Danionidae	non-miniature	6.0	885.3081555	diploid	presente
+Rasbora_cephalotaenia	lecturas	SRR39401259	LR10786	Cyprinoidei_Danionidae_Rasbora_cephalotaenia_LR10786	21.0	60.6	0.346	presente	Danionidae	non-miniature	7.73	766.9291225	diploid	presente
+Malayochela_maassi	lecturas	SRR39401263	LR15378	Cyprinoidei_Danionidae_Malayochela_maassi_LR15098	39.0	62.2	0.627	presente	Danionidae	non-miniature	4.0	712.94025	diploid	presente
+Catostomus_commersonii	lecturas	SRR39401265			30.0	31.3	0.958	presente						
+Astyanax_mexicanus	genoma			Characiformes_Characidae_Astyanax_mexicanus_GCF_023375975.1_NCBI				presente						presente
+Barbatula_barbatula	genoma			Cobitoidei_Nemacheilidae_Barbatula_barbatula_GCA_947034865.1_NCBI				presente		non-miniature	12.0		diploid	presente
+Ctenopharyngodon_idella	genoma			Cyprinoidei_Xenocyprididae_Ctenopharyngodon_idella_GCF_019924925.1_NCBI				presente		non-miniature	80.0		diploid	presente
+Danio_aesculapii	genoma			Cyprinoidei_Danionidae_Danio_aesculapii_GCF_903798145.1_NCBI				ausente		non-miniature	3.0		diploid	ausente
+Danio_albolineatus	genoma			Cyprinoidei_Danionidae_Danio_albolineatus_GCA_903798035.1_NCBI				ausente		non-miniature	3.4		diploid	ausente
+Danio_choprae	genoma			Cyprinoidei_Danionidae_Danio_choprai_GCA_903798125.1_NCBI				ausente		non-miniature	3.1		diploid	ausente
+Danio_jaintianensis	genoma			Cyprinoidei_Danionidae_Danio_jaintianensis_GCA_903798115.1_NCBI				ausente		non-miniature	8.0		diploid	ausente
+Danio_kyathit	genoma			Cyprinoidei_Danionidae_Danio_kyathit_GCA_903798195.1_NCBI				ausente		non-miniature	3.5		diploid	ausente
+Danio_nigrofasciatus	genoma							ausente						
+Danio_rerio	genoma			Cyprinoidei_Danionidae_Danio_rerio_GCA_944039275.1_NCBI				ausente		non-miniature	3.8		diploid	ausente
+Danio_tinwini	genoma			Cyprinoidei_Danionidae_Danio_tinwini_GCA_903798205.1_NCBI				ausente		proportioned-dwarf	2.6		diploid	ausente
+Danionella_cerebrum	genoma			Cyprinoidei_incertae.sedis_Danionella_cerebrum_GCA_903798025.1_NCBI				presente		progenetic-miniature	1.4		diploid	presente
+Danionella_dracula	genoma			Cyprinoidei_incertae.sedis_Danionella_dracula_GCA_900490495.1_NCBI				ausente		progenetic-miniature	1.7		diploid	ausente
+Gobio_gobio	genoma			Cyprinoidei_Gobionidae_Gobio_gobio_GCA_949357685.1_NCBI				presente		non-miniature	13.0		diploid	presente
+Ictalurus_furcatus	genoma			Siluriformes_Ictaluridae_Ictalurus_furcatus_GCF_023375685.1_NCBI				presente						presente
+Labeo_rohita	genoma			Cyprinoidei_Cyprinidae_Labeo_rohita_GCF_022985175.1_NCBI				presente		non-miniature	150.0		diploid	presente
+Misgurnus_anguillicaudatus	genoma			Cobitoidei_Cobitidae_Misgurnus_anguillicaudatus_GCF_027580225.1_NCBI				ausente	Cobitidae	non-miniature	28.0	1236.165002	diploid	ausente
+Paedocypris_carbunculus	genoma			Cyprinoidei_incertae.sedis_Paedocypris_carbunculus_LR12004				ausente	Paedocyprididae	progenetic-miniature	1.15	422.0606155	diploid	ausente
+Paedocypris_micromegethes	genoma			Cyprinoidei_incertae.sedis_Paedocypris_micromegethes_GCA_028031935.1_NCBI				ausente		progenetic-miniature	1.3		diploid	ausente
+Paedocypris_sp_Pulau_Singkep	genoma							ausente						
+Paramisgurnus_dabryanus	genoma							ausente						
+Pimephales_promelas	genoma			Cyprinoidei_Leuciscidae_Pimephales_promelas_GCF_016745375.1_NCBI				presente		non-miniature	8.2		diploid	presente
+Rasbora_lateristriata	genoma							presente						
+Triplophysa_rosa	genoma			Cobitoidei_Nemacheilidae_Triplophysa_rosa_GCF_024868665.1_NCBI				presente		non-miniature	5.6		diploid	presente

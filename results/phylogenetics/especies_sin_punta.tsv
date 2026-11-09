@@ -1,0 +1,17 @@
+especie	fuente	corrida	voucher	punta	DCX_obs	DCX_esp	cociente	estado	familia	miniatura	SL_max_cm	genoma_Mb	ploidia	estado_punta
+Paramisgurnus_dabryanus	lecturas	SRR23104325			0.0	18.8	0.0	ausente						
+Salmostoma_sp	lecturas	ERR3332344			26.0	68.4	0.38	presente						
+Devario_aequipinnatus	lecturas	ERR3332370			8.0	25.1	0.319	presente						
+Labeobarbus_sp	lecturas	SRR39401036	LR15282		32.0	42.3	0.757	presente	Cyprinidae	non-miniature	35.0	1263.3545525	polyploid	
+Ictiobus_bubalus	lecturas	SRR39401051			15.0	24.2	0.621	presente						
+Vanmanenia_sp	lecturas	SRR39401053	LR15188		40.0	83.9	0.477	presente	Gastromyzontidae	non-miniature	6.3	438.572310499999	diploid	
+Scardinius_sp	lecturas	SRR39401066	1010_2016		18.0	38.2	0.471	presente	Leuciscidae	non-miniature	35.0	1103.7610045	diploid	
+Phoxinus_csikii	lecturas	SRR39401072	2564_2011		24.0	43.8	0.547	presente	Leuciscidae	non-miniature	10.0	980.731219	diploid	
+Acrossocheilus_sp	lecturas	SRR39401080	123LR15726		26.0	42.1	0.618	presente	Cyprinidae	non-miniature	19.2	937.795838999999	diploid	
+Misgurnus_sp	lecturas	SRR39401174	LR15162		1.0	23.9	0.042	ausente	Cobitidae	non-miniature	16.7	1236.165002	diploid	
+Hybognathus_nuchalis	lecturas	SRR39401180	LR15253		29.0	36.2	0.8	presente	Leuciscidae	non-miniature	9.3	937.2453165	diploid	
+Catostomus_commersonii	lecturas	SRR39401265			30.0	31.3	0.958	presente						
+Danio_nigrofasciatus	genoma							ausente						
+Paedocypris_sp_Pulau_Singkep	genoma							ausente						
+Paramisgurnus_dabryanus	genoma							ausente						
+Rasbora_lateristriata	genoma							presente						

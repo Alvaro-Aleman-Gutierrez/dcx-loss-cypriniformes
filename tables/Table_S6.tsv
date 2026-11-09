@@ -1,0 +1,14 @@
+species	tissue	run	reads_R1_analysed	reads_DCX	reads_dclk1a_shared_DC	reads_dclk1a_kinase	reads_dclk1a_DConly_exon	junction_reads_to_kinase	junction_reads_to_DConly	reads_dclk2a	reads_elavl3	reads_gfap	reads_actb1	RPKM_DCX	RPKM_dclk2a	RPKM_actb1	RPKM_elavl3	RPKM_gfap	RPKM_dclk1a_kinase	RPKM_dclk1a_DConly_exon	fraction_DConly_junctions
+Ctenopharyngodon idella	spleen	SRR35031011	10000000	0.0	0.0	14.0	3.0	0	0	31.0	0.0	7.0	21222.0	0.0	1.06	1191.58	0.0	0.27	0.59	0.07	
+Ctenopharyngodon idella	spleen	SRR35031012	10000000	0.0	0.0	6.0	3.0	0	0	25.0	0.0	16.0	6765.0	0.0	0.85	379.84	0.0	0.62	0.25	0.07	
+Ctenopharyngodon idella	gills	SRR35029734	10000000	7.0	0.0	6.0	15.0	0	0	1.0	5.0	6.0	7335.0	0.65	0.03	411.85	0.08	0.23	0.25	0.37	
+Ctenopharyngodon idella	gills	SRR35029735	10000000	2.0	0.0	2.0	15.0	0	0	0.0	3.0	17.0	5664.0	0.19	0.0	318.02	0.05	0.66	0.08	0.37	
+Ctenopharyngodon idella	brain	SRR35031399	10000000	206.0	67.0	1369.0	43.0	18	0	337.0	5513.0	3843.0	7182.0	19.23	11.48	403.26	89.63	150.0	57.28	1.05	0.0
+Ctenopharyngodon idella	brain	SRR35031400	10000000	213.0	44.0	1083.0	22.0	21	0	306.0	6067.0	4998.0	6423.0	19.89	10.43	360.64	98.63	195.08	45.31	0.54	0.0
+Ctenopharyngodon idella	liver	SRR35030834	10000000	0.0	0.0	2.0	1.0	0	0	2.0	0.0	0.0	9323.0	0.0	0.07	523.47	0.0	0.0	0.08	0.02	
+Ctenopharyngodon idella	liver	SRR35030835	10000000	0.0	0.0	0.0	4.0	0	0	5.0	0.0	0.0	3645.0	0.0	0.17	204.66	0.0	0.0	0.0	0.1	
+Ctenopharyngodon idella	intestine	SRR35030603	10000000	3.0	0.0	503.0	156.0	22	2	34.0	104.0	6.0	18930.0	0.28	1.16	1062.89	1.69	0.23	21.05	3.82	0.083
+Ctenopharyngodon idella	intestine	SRR35030604	10000000	2.0	0.0	63.0	15.0	0	0	8.0	20.0	24.0	8937.0	0.19	0.27	501.8	0.33	0.94	2.64	0.37	
+Ctenopharyngodon idella	kidney	SRR35032171	10000000	0.0	0.0	5.0	5.0	0	0	15.0	1.0	11.0	10933.0	0.0	0.51	613.87	0.02	0.43	0.21	0.12	
+Ctenopharyngodon idella	kidney	SRR35032172	10000000	0.0	0.0	2.0	8.0	0	0	3.0	0.0	27.0	12824.0	0.0	0.1	720.04	0.0	1.05	0.08	0.2	
+Danio rerio	brain	SRR37646263	20000000					67	0												0.0
