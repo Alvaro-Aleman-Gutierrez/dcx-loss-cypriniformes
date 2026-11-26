@@ -2,7 +2,9 @@
 
 Data and code for the article
 
-> Alemán-Gutiérrez, A. Cypriniform fishes lost doublecortin repeatedly despite strong purifying selection on the gene. Submitted.
+> Alemán-Gutiérrez, A. (2026). Cypriniform fishes lost doublecortin repeatedly despite strong purifying selection on the gene. *EcoEvoRxiv* (preprint). https://doi.org/10.32942/X2J97B
+
+Archived copies are on Zenodo, the data and supplementary tables at https://doi.org/10.5281/zenodo.24294069 and the scripts at https://doi.org/10.5281/zenodo.24177883.
 
 Doublecortin (DCX) is a microtubule-associated protein of migrating neurons, annotated in nearly all vertebrate genomes. This project shows that the gene was lost at least four times in cypriniform fishes, in *Danio* (including zebrafish), *Danionella dracula*, *Paedocypris* and cobitid loaches. *DCX* is strongly constrained in the species that keep it.
 
@@ -66,5 +68,5 @@ Code is released under the MIT licence. Results and tables are released under CC
 
 Alvaro Alemán-Gutiérrez
 - Instituto Tecnológico de Costa Rica and Universidad del Bío-Bío
-- user@itcr.ac.cr
+- aaleman@itcr.ac.cr
 - ORCID [0000-0001-9916-6980](https://orcid.org/0000-0001-9916-6980)
